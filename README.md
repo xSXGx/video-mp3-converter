@@ -7,7 +7,7 @@ Is a Python script.
 
 Requirements:
 Needs Python 3+ installed.
-Nedds pip installed.
+Neds pip installed.
 
 ## Install Python modules moviepy
 
