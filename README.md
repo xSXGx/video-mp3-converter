@@ -15,7 +15,7 @@ python3 -m pip install moviepy
 
 ## Usage
 
-Add input path of "video_name.mp4" and output path of "audio_name.mp3
+Add path of "video_name.mp4" and path of "audio_name.mp3
 
 python3 video_to_mp3.py
 
