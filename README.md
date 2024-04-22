@@ -7,11 +7,16 @@ Is a Python script.
 
 Requirements:
 Needs Python 3+ installed.
-Neds pip installed.
+Needs pip installed.
 
-## Install Python modules moviepy
+## Install Python module moviepy
 
 python3 -m pip install moviepy
 
-Add input path of "video_name.mp4" and output path of "audio_name.mp3.
+## Usage
+
+Add input path of "video_name.mp4" and output path of "audio_name.mp3
+
+python3 video_to_mp3.py
+
 Enjoy!
